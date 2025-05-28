@@ -1,8 +1,7 @@
 PS Gaming Shop Management System
 ================================
 
-This application helps manage customer check-ins, registrations, and analytics for PS Gaming Shop.
-
+This application helps manage customer check-ins, registrations, and analytics for PS Gaming Shop and Award points for spending.
 Installation Instructions:
 -------------------------
 
