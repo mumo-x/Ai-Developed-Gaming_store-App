@@ -89,4 +89,6 @@ General troubleshooting:
 3. Ensure you have write permissions in the application directory
 4. Check the console for error messages
 
-For further assistance, please contact support@PSgaming.com
+For further assistance, please contact designerssplendor@gmail.com
+
+NB: THE .exe FILE IS NOT UPLOADED
