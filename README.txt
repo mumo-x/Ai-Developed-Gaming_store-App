@@ -20,6 +20,8 @@ Installation Instructions:
    - Double-click on run_PS_app.bat (recommended for first-time users)
    - Open a command prompt and run: python main.py
 
+5. Double click the .exe file created after runing python PS_app.py
+
 Features:
 --------
 
